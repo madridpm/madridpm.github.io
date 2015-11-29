@@ -1,0 +1,5 @@
+Sitemap: http://madridpm.github.io/sitemap.xml
+User-Agent: *
+Disallow:
+
+

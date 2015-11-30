@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Madrid Perl Mongers</title>
+        <link>http://madridpm.github.io/blog/</link>
+        <atom:link href="http://madridpm.github.io/blog/index.rss" rel="self" type="application/rss+xml" />
+        <description>Blog feed of Madrid Perl Mongers</description>
+        <generator>Statocles 0.060</generator>
+        <item>
+            <title>Statocles &amp; GitHub Pages</title>
+            <link>http://madridpm.github.io/blog/2015/11/29/first-post/</link>
+            <guid>http://madridpm.github.io/blog/2015/11/29/first-post/</guid>
+            <description><![CDATA[
+                <p>Hemos cambiado la web para utilizar un generador estático: <a href="http://preaction.me/statocles/">Statocles</a> y usar <a href="https://pages.github.com/">GitHub Pages</a> para no tener que preocuparnos del alojamiento.
+También hemos creado la organización <a href="https://github.com/madridpm">madridpm</a> en GitHub para gestionar la web y los futuros proyectos en los que trabajemos juntos ;)</p>
+
+<p>Cualquiera puede contribuir a mejorar y extender la web. Es muy sencillo:</p>
+
+<ul>
+<li>Hacer un fork del <a href="https://github.com/madridpm/madridpm.github.io">repositorio</a></li>
+<li>Clonar tu fork</li>
+<li>Instalar <a href="http://preaction.me/statocles/">Statocles</a></li>
+<li>Hacer los cambios que creas convenientes</li>
+<li>Commit &amp; Push de tus cambios</li>
+<li>Y por último: Pull Request</li>
+</ul>
+
+                    <p><a href="http://madridpm.github.io/blog/2015/11/29/first-post/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://madridpm.github.io/blog/tag/statocles/">statocles</a>
+                    <a href="http://madridpm.github.io/blog/tag/github/">github</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Sun, 29 Nov 2015 00:00:00 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>
+

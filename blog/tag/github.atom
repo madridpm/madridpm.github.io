@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://madridpm.github.io/blog/tag/github/</id>
+    <title>Madrid Perl Mongers</title>
+    <updated>2015-11-29T21:51:40Z</updated>
+    <link href="http://madridpm.github.io/blog/tag/github.atom" rel="self" />
+    <link href="http://madridpm.github.io/blog/tag/github/" rel="alternate" />
+    <generator version="0.060">Statocles</generator>
+    <entry>
+        <id>http://madridpm.github.io/blog/2015/11/29/first-post/</id>
+        <title>Statocles &amp; GitHub Pages</title>
+        <link href="http://madridpm.github.io/blog/2015/11/29/first-post/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>Hemos cambiado la web para utilizar un generador estático: <a href="http://preaction.me/statocles/">Statocles</a> y usar <a href="https://pages.github.com/">GitHub Pages</a> para no tener que preocuparnos del alojamiento.
+También hemos creado la organización <a href="https://github.com/madridpm">madridpm</a> en GitHub para gestionar la web y los futuros proyectos en los que trabajemos juntos ;)</p>
+
+<p>Cualquiera puede contribuir a mejorar y extender la web. Es muy sencillo:</p>
+
+<ul>
+<li>Hacer un fork del <a href="https://github.com/madridpm/madridpm.github.io">repositorio</a></li>
+<li>Clonar tu fork</li>
+<li>Instalar <a href="http://preaction.me/statocles/">Statocles</a></li>
+<li>Hacer los cambios que creas convenientes</li>
+<li>Commit &amp; Push de tus cambios</li>
+<li>Y por último: Pull Request</li>
+</ul>
+
+                <p><a href="http://madridpm.github.io/blog/2015/11/29/first-post/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://madridpm.github.io/blog/tag/statocles/">statocles</a>
+                <a href="http://madridpm.github.io/blog/tag/github/">github</a>
+            </p>
+        ]]></content>
+        <updated>2015-11-29T00:00:00Z</updated>
+        <category term="statocles" />
+        <category term="github" />
+    </entry>
+</feed>
+

@@ -86,6 +86,8 @@ site:
             main:
                 - text: 'Blog'
                   href: '/blog'
+                - text: 'Enlaces'
+                  href: '/page/links'
 
         # deploy: This is the deploy object, used to deploy this site.
         deploy:

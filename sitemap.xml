@@ -4,7 +4,7 @@
         <loc>http://madridpm.github.io/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2015-11-29</lastmod>
+        <lastmod>2015-12-01</lastmod>
     </url>
     <url>
         <loc>http://madridpm.github.io/blog/tag/statocles/</loc>
@@ -29,6 +29,12 @@
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <lastmod>2015-11-29</lastmod>
+    </url>
+    <url>
+        <loc>http://madridpm.github.io/page/links/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-12-01</lastmod>
     </url>
 </urlset>
 

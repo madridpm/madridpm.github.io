@@ -6,7 +6,7 @@ title: Bienvenido
 
 ### Ven al Madrid Perl Workshop 2017
 
-El próximo 3 de junio celebraremos el primer [Madrid Perl Workshop](http://madrid.pm.org/workshop). ¿Te lo vas a perder? 
+El próximo sábado 3 de junio celebraremos el primer [Madrid Perl Workshop](http://madrid.pm.org/workshop). ¿Te lo vas a perder? 
 
 
 

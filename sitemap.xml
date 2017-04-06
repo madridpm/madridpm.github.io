@@ -4,22 +4,10 @@
         <loc>http://madridpm.github.io/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2016-03-29</lastmod>
-    </url>
-    <url>
-        <loc>http://madridpm.github.io/blog/tag/statocles/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2015-11-29</lastmod>
+        <lastmod>2017-04-06</lastmod>
     </url>
     <url>
         <loc>http://madridpm.github.io/blog/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2015-11-29</lastmod>
-    </url>
-    <url>
-        <loc>http://madridpm.github.io/blog/tag/github/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2015-11-29</lastmod>
@@ -31,10 +19,22 @@
         <lastmod>2015-11-29</lastmod>
     </url>
     <url>
+        <loc>http://madridpm.github.io/blog/tag/github/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-11-29</lastmod>
+    </url>
+    <url>
+        <loc>http://madridpm.github.io/blog/tag/statocles/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-11-29</lastmod>
+    </url>
+    <url>
         <loc>http://madridpm.github.io/page/links/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2016-03-29</lastmod>
+        <lastmod>2017-04-06</lastmod>
     </url>
 </urlset>
 

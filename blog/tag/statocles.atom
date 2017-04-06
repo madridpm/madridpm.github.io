@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://madridpm.github.io/blog/tag/statocles/</id>
     <title>Madrid Perl Mongers</title>
-    <updated>2016-03-29T22:21:50Z</updated>
+    <updated>2015-11-29T00:00:00Z</updated>
     <link href="http://madridpm.github.io/blog/tag/statocles.atom" rel="self" />
     <link href="http://madridpm.github.io/blog/tag/statocles/" rel="alternate" />
-    <generator version="0.060">Statocles</generator>
+    <generator version="0.083">Statocles</generator>
     <entry>
         <id>http://madridpm.github.io/blog/2015/11/29/first-post/</id>
         <title>Statocles &amp; GitHub Pages</title>

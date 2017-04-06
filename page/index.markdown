@@ -4,6 +4,14 @@ title: Bienvenido
 
 # ![madrid-pm logo](/static/madrid-pm.png "Madrid PM Logo") Madrid Perl Mongers
 
+### Ven al Madrid Perl Workshop 2017
+
+El próximo 3 de junio celebraremos el primer [Madrid Perl Workshop](http://madrid.pm.org/workshop). ¿Te lo vas a perder? 
+
+
+
+
+
 #### ¿Qué es esto?
 
 Somos un grupo de personas, la mayoría de nosotros de Madrid, interesadas en Perl y dedicados a aprender colectivamente. Esto incluye reuniones periódicas, ayudarnos entre nosotros y discusiones sin sentido aparente...

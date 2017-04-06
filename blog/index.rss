@@ -5,7 +5,7 @@
         <link>http://madridpm.github.io/blog/</link>
         <atom:link href="http://madridpm.github.io/blog/index.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Madrid Perl Mongers</description>
-        <generator>Statocles 0.060</generator>
+        <generator>Statocles 0.083</generator>
         <item>
             <title>Statocles &amp; GitHub Pages</title>
             <link>http://madridpm.github.io/blog/2015/11/29/first-post/</link>

@@ -24,7 +24,7 @@ Suscríbete a la [lista de correo de Madrid.pm](http://mail.pm.org/mailman/listi
 
 ##### Reuniones
 
-Nos reunimos una vez al mes. Ultimamente el último martes del mes salvo fiestas y similares. Puedes encontrar los detalles en el [Meetup](http://www.meetup.com/Madrid-Perl-Mongers/)! (Para ir no es necesario hacer nada, solo presentarte donde hayamos quedado)
+Nos reunimos una vez al mes. Ultimamente el tercer jueves del mes salvo fiestas y similares. Puedes encontrar los detalles en el [Meetup](http://www.meetup.com/Madrid-Perl-Mongers/)! (Para ir no es necesario hacer nada, solo presentarte donde hayamos quedado)
 
 <center><iframe width="225" height="570" src="http://meetu.ps/2Wmddr" frameborder="0"></iframe></center>
 
